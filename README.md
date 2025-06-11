@@ -11,6 +11,7 @@ El objetivo es ofrecer una plataforma web funcional para el Hotel Nova donde los
 - Enviar solicitudes de reserva.
 - Contactar mediante un formulario.
 
+
 ## 🛠️ Tecnologías Utilizadas
 
 - Java EE (Servlets + JSP)
@@ -46,7 +47,7 @@ HotelNova/
 - JDK 11 o superior
 - Apache Tomcat 10+
 - MySQL Server
-- IDE compatible (Eclipse, IntelliJ, NetBeans)
+- IDE compatible (Eclipse, NetBeans)
 
 ### Instalación
 
