@@ -107,5 +107,4 @@ Web: hotelnova.com
 Tel: +34 123 456 789
 
 ## 📄 Licencia
-
-Distribuido bajo la Licencia MIT. Ver LICENSE para más información.
+- Distribuido bajo la Licencia MIT. Ver LICENSE para más información.
