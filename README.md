@@ -89,7 +89,7 @@ USE Hotel;
 
 
 
-## ✅ Funcionalidades:
+## ✅ Funcionalidades
 
 - 🏠 Página de inicio con presentación del hotel.
 
@@ -106,4 +106,5 @@ Web: hotelnova.com
 Tel: +34 123 456 789
 
 ## 📄 Licencia
+
 Distribuido bajo la Licencia MIT. Ver LICENSE para más información.
