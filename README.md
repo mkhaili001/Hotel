@@ -22,22 +22,22 @@ El objetivo es ofrecer una plataforma web funcional para el Hotel Nova donde los
 
 ## 📁 Estructura del Proyecto
 
-HotelNova/
-├── src/
-│ └── com/hotelnova/servlets/
-│ ├── Cargar.java
-│ ├── menuHabitacion.java
-│ ├── menuServicios.java
-├── WebContent/
-│ ├── index.jsp
-│ ├── habitaciones.jsp
-│ ├── servicios.jsp
-│ ├── css/
-│ │ └── styles.css
-│ └── WEB-INF/
-│ └── web.xml
-├── README.md
-└── .sql (script para crear la base de datos)
+HotelNova/  
+├── src/   
+│ └── com/hotelnova/servlets/  
+│ ├── Cargar.java  
+│ ├── menuHabitacion.java  
+│ ├── menuServicios.java  
+├── WebContent/  
+│ ├── index.jsp  
+│ ├── habitaciones.jsp  
+│ ├── servicios.jsp  
+│ ├── css/  
+│ │ └── styles.css  
+│ └── WEB-INF/  
+│ └── web.xml  
+├── README.md  
+└── .sql (script para crear la base de datos)  
 
 
 ## ⚙️ Configuración del Proyecto
