@@ -1,4 +1,4 @@
-# 🌟 Hotel Nova - Sitio Web con Java EE
+## 🌟 Hotel Nova - Sitio Web con Java EE
 
 Este repositorio contiene el desarrollo de la página web del **Hotel Nova**, creada usando Java EE (Servlets, JSP y JDBC). La aplicación permite a los usuarios conocer el hotel, ver habitaciones y contactar al establecimiento.
 
@@ -82,7 +82,7 @@ USE Hotel;
       UNIQUE KEY `numeroHabitacion_UNIQUE` (`numeroHabitacion`)
     ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-## 🚀 Ejecución
+### 🚀 Ejecución
 
 - Inicia el servidor Tomcat desde tu IDE o manualmente.
 
