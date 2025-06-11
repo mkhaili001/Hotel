@@ -38,6 +38,7 @@ HotelNova/
 ├── README.md
 └── .sql (script para crear la base de datos)
 
+
 ## ⚙️ Configuración del Proyecto
 
 ### Requisitos
